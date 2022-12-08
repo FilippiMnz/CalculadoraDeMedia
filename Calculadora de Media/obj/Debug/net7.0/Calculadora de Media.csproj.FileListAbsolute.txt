@@ -1,0 +1,15 @@
+C:\Users\Jarvis\source\repos\Calculadora de Media\Calculadora de Media\bin\Debug\net7.0\Calculadora de Media.exe
+C:\Users\Jarvis\source\repos\Calculadora de Media\Calculadora de Media\bin\Debug\net7.0\Calculadora de Media.deps.json
+C:\Users\Jarvis\source\repos\Calculadora de Media\Calculadora de Media\bin\Debug\net7.0\Calculadora de Media.runtimeconfig.json
+C:\Users\Jarvis\source\repos\Calculadora de Media\Calculadora de Media\bin\Debug\net7.0\Calculadora de Media.dll
+C:\Users\Jarvis\source\repos\Calculadora de Media\Calculadora de Media\bin\Debug\net7.0\Calculadora de Media.pdb
+C:\Users\Jarvis\source\repos\Calculadora de Media\Calculadora de Media\obj\Debug\net7.0\Calculadora de Media.csproj.AssemblyReference.cache
+C:\Users\Jarvis\source\repos\Calculadora de Media\Calculadora de Media\obj\Debug\net7.0\Calculadora de Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarvis\source\repos\Calculadora de Media\Calculadora de Media\obj\Debug\net7.0\Calculadora de Media.AssemblyInfoInputs.cache
+C:\Users\Jarvis\source\repos\Calculadora de Media\Calculadora de Media\obj\Debug\net7.0\Calculadora de Media.AssemblyInfo.cs
+C:\Users\Jarvis\source\repos\Calculadora de Media\Calculadora de Media\obj\Debug\net7.0\Calculadora de Media.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\source\repos\Calculadora de Media\Calculadora de Media\obj\Debug\net7.0\Calculadora de Media.dll
+C:\Users\Jarvis\source\repos\Calculadora de Media\Calculadora de Media\obj\Debug\net7.0\refint\Calculadora de Media.dll
+C:\Users\Jarvis\source\repos\Calculadora de Media\Calculadora de Media\obj\Debug\net7.0\Calculadora de Media.pdb
+C:\Users\Jarvis\source\repos\Calculadora de Media\Calculadora de Media\obj\Debug\net7.0\Calculadora de Media.genruntimeconfig.cache
+C:\Users\Jarvis\source\repos\Calculadora de Media\Calculadora de Media\obj\Debug\net7.0\ref\Calculadora de Media.dll
